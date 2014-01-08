@@ -65,6 +65,7 @@
 		<input type="submit" value="글쓰기" />
 	</p>
 	</form>
+	<br><br>Model2 사용
 </body>
 </html>
 
