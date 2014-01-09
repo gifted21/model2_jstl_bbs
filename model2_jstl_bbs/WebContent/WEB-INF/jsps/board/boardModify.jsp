@@ -69,6 +69,6 @@
 		<input type="submit" value="글수정" />
 	</p>
 	</form>
-	<br><br>Model2 사용
+	<br><br>Model2 JSTL 게시판
 </body>
 </html>

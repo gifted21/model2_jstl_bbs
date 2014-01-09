@@ -53,6 +53,6 @@
 		<input type="button" value="수정" onclick="goUrl('<c:url value="/board/boardModifyServlet?num=${boardModel.num}&pageNum=${boardModel.pageNum}&amp;searchType=${boardModel.searchType}&amp;searchText=${boardModel.searchText}" />');" />
 		<input type="button" value="삭제" onclick="deleteCheck('<c:url value="/board/boardDeleteServlet?num=${boardModel.num}&pageNum=${boardModel.pageNum}&amp;searchType=${boardModel.searchType}&amp;searchText=${boardModel.searchText}" />');" />
 	</p>
-	<br><br>Model2 사용
+	<br><br>Model2 JSTL 게시판
 </body>
 </html>

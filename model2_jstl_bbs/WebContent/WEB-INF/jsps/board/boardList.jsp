@@ -91,6 +91,6 @@
 		<input type="button" value="목록" onclick="goUrl('<c:url value="/board/boardListServlet"/>');" />
 		<input type="button" value="글쓰기" onclick="goUrl('<c:url value="/board/boardWriteServlet"/>');" />
 	</p>
-<br><br>Model2 사용
+<br><br>Model2 JSTL 게시판
 </body>
 </html>
